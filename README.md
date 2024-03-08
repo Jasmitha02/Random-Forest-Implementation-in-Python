@@ -26,8 +26,8 @@ To use the Random Forest implementation and explore the data analysis:
 
 1. Clone the repository to your local machine.
 2. Navigate to the directory containing the code.
-3. Run the `decison_tree_functions.py` script to execute the Random Forest implementation.
-4. Explore the Jupyter Notebook in `Implementation` for detailed data analysis and visualizations.
+3. Run the `Implementation/decison_tree_functions.py` script to execute the Random Forest implementation.
+4. Explore the Jupyter Notebook `random forests.ipynb` for detailed explanation and  data analysis.
 
 ## Dependencies
 - Python 3.x
